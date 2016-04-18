@@ -1,0 +1,15 @@
+{
+  "name": "f.cloud",
+  "version": "1.0.0",
+  "description": "Any.Cloud Class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fcampas",
+  "license": "ISC",
+  "repository":"https://github.com/el-loco-uno/any.cloud.git",
+  "dependencies": {
+    "validator": "^5.2.0"
+  }
+}
